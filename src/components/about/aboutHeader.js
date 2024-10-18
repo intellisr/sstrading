@@ -18,7 +18,7 @@ const AboutHeader = () => {
             SSGTLLC - Sithranjan Saranath General Trading L.L.C Company is registered under the U.A.E law with the number 1123539 and are based at Fruit & Veg. Market, Al Aweer, Dubai - U.A.E.
           </p>
           <p className="text-black opacity-90 font-normal mt-3 text-xs xxs:text-xs xs:text-xs sm:text-xs md:text-sm lg:text-lg">
-            Founded in 12/2/2020, SSGTLLC was created with the goal to be a reliable partner in international trading. With over 3 years of experience in both imports and exports. SSGTLLC focused on bringing high quality, exclusive products from Sri Lanka to distributors all over the world, especially in U.A.E market and vice versa.
+            Founded in 12/2/2019, SSGTLLC was created with the goal to be a reliable partner in international trading. With over 5 years of experience in both imports and exports. SSGTLLC focused on bringing high quality, exclusive products from Sri Lanka to distributors all over the world, especially in U.A.E market and vice versa.
           </p>
           <p className="text-black opacity-90 font-normal mt-3 text-xs xxs:text-xs xs:text-xs sm:text-xs md:text-sm lg:text-lg">
             We now have distribution channels in all three all they are regions of U.A.E and exclusive distributor partners in the food and beverage industry.

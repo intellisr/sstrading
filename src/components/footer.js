@@ -110,8 +110,8 @@ const Footer = () => {
           </p>
           <p className="text-sm">
             Powered by{" "}
-            <a href="https://intellisr.com" className="text-yellow-400 hover:underline">
-              INTELLISR
+            <a href="#" className="text-yellow-400 hover:underline">
+              INTELLISR & TECHCD STUDIOS
             </a>
           </p>
         </div>

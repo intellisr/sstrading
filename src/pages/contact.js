@@ -43,7 +43,7 @@ const Contact = () => {
                       Phone 1
                     </p>
                     <p className="text-neutral-200 mb-2">        
-                      <a href="tel+971526950454">+971526950454</a>
+                      <a href="tel+971526950454">+971 52 695 0454</a>
                     </p>
                   </div>
                 </div>
@@ -69,7 +69,33 @@ const Contact = () => {
                       Phone 2
                     </p>
                     <p className="text-neutral-200 mb-2">
-                      <a href="tel:+94770601514">+94770601514</a>
+                      <a href="tel:+971581891600">+971 58 189 1600</a>
+                    </p>
+                  </div>
+                </div>
+              </div>
+              {/* Phone Number 2 */}
+              <div className="mb-12 w-full md:w-6/12 px-3">
+                <div className="flex items-start">
+                  <div className="shrink-0">
+                    <div className="inline-block p-4 text-teal-700">
+                      {/* Phone Icon */}
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        fill="currentColor"
+                        viewBox="0 0 24 24"
+                        className="h-8 w-8"
+                      >
+                        <path d="M3 2c-1.094 0-2 .906-2 2 0 9.944 8.056 18 18 18 1.094 0 2-.906 2-2v-4.17c0-.918-.626-1.71-1.515-1.945l-5.088-1.272c-.827-.206-1.689.085-2.19.732l-2.292 2.938a16.001 16.001 0 01-6.59-6.59l2.938-2.292c.647-.5.938-1.363.732-2.19L7.115 4.515C6.88 3.626 6.088 3 5.17 3H3z" />
+                      </svg>
+                    </div>
+                  </div>
+                  <div className="ml-4">
+                    <p className="mb-2 font-bold underline decoration-pink">
+                      Land Phone
+                    </p>
+                    <p className="text-neutral-200 mb-2">
+                      <a href="tel:+045849244">+04 58 49244</a>
                     </p>
                   </div>
                 </div>
@@ -92,10 +118,10 @@ const Contact = () => {
                   </div>
                   <div className="ml-4">
                     <p className="mb-2 font-bold underline decoration-pink">
-                      Email 1
+                      Email
                     </p>
                     <p className="text-neutral-200 mb-2">
-                      <a href="mailto:info@saranathgeneraltrading.com">info@saranathgeneraltrading.com</a>
+                      <a href="info@aspexport.ae">info@aspexport.ae</a>
                     </p>
                   </div>
                 </div>
@@ -118,10 +144,10 @@ const Contact = () => {
                   </div>
                   <div className="ml-4">
                     <p className="mb-2 font-bold underline decoration-pink">
-                      Email 2
+                      Sales Manager Email
                     </p>
                     <p className="text-neutral-200 mb-2">
-                      <a href="mailto:support@aspexport.ae">support@aspexport.ae</a>
+                      <a href="mailto:ss@aspexport.ae">ss@aspexport.ae</a>
                     </p>
                   </div>
                 </div>
@@ -198,7 +224,7 @@ const Contact = () => {
                       Opening Hours
                     </p>
                     <p className="text-neutral-200 mb-2">
-                      Monday - Friday: 9:00 AM - 6:00 PM
+                      Monday - Saturday: 9AM - 12AM & 4PM - 8PM 
                     </p>
                   </div>
                 </div>

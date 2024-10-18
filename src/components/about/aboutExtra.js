@@ -1,5 +1,6 @@
 import React from "react"
 import partner from "../../images/asp.jpeg"
+import partner2 from "../../images/helper.jpeg"
 
 const AboutExtra = () => {
   return (
@@ -15,6 +16,7 @@ const AboutExtra = () => {
         </p>
 
           <img alt="Image" className="max-h-36 w-full object-contain" src={partner}></img>
+          <img alt="Image" className="max-h-36 w-full object-contain" src={partner2}></img>
        
         <div className="mt-5 mb-5 sm:mt-8 sm:flex sm:justify-start lg:justify-start">
           <div className="rounded-md">
